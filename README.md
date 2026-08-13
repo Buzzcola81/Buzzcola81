@@ -36,6 +36,7 @@ I enjoy designing and building secure, scalable and highly automated cloud platf
 ### DevOps & CI/CD
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![AWS CodePipeline](https://img.shields.io/badge/AWS%20CodePipeline-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Languages & Automation
