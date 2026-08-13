@@ -86,30 +86,6 @@ I'm actively developing my cybersecurity and ethical hacking skills through hand
 </tr>
 </table>
 
-## 🔐 Areas of Interest
-
-```text
-Cloud Architecture
-        │
-        ├── AWS Landing Zones
-        ├── Multi-Account Architecture
-        ├── Governance & Compliance
-        └── Platform Engineering
-                │
-                ▼
-        ┌───────────────────┐
-        │     DevSecOps     │
-        └───────────────────┘
-                │
-        ┌───────┼────────┐
-        ▼       ▼        ▼
-     Security  CI/CD   Automation
-        │       │        │
-        └───────┼────────┘
-                ▼
-        Secure Cloud Platforms
-```
-
 <!--
 **Buzzcola81/Buzzcola81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
