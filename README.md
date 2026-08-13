@@ -69,6 +69,7 @@ Cloud Architecture
         └───────┼────────┘
                 ▼
         Secure Cloud Platforms
+```
 
 <!--
 **Buzzcola81/Buzzcola81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
