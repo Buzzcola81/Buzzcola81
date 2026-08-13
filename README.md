@@ -31,7 +31,7 @@ I enjoy designing and building secure, scalable and highly automated cloud platf
 
 ### Infrastructure as Code
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![AWS CDK](https://img.shields.io/badge/AWS%20CDK-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS CloudFormation](https://img.shields.io/badge/AWS%20CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### DevOps & CI/CD
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
