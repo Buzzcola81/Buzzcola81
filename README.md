@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi, I'm Martin Sustaric
 
 ### Principal Cloud Engineer | AWS | DevSecOps | Cloud Security | Automation
@@ -49,6 +47,12 @@ I enjoy designing and building secure, scalable and highly automated cloud platf
 
 ---
 
+## 🏆 Cybersecurity
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Buzzcola-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Buzzcola)
+
+**TryHackMe:** `Buzzcola` · **Rank:** `YOUR RANK`
+
 ## 🔐 Areas of Interest
 
 ```text
@@ -72,13 +76,6 @@ Cloud Architecture
                 ▼
         Secure Cloud Platforms
 ```
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Martin%20Sustaric-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martinsustaric/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Buzzcola81-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Buzzcola81)
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Buzzcola-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Buzzcola)
 
 <!--
 **Buzzcola81/Buzzcola81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
