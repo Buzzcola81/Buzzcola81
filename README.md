@@ -49,9 +49,17 @@ I enjoy designing and building secure, scalable and highly automated cloud platf
 
 ## 🏆 Cybersecurity
 
+I'm actively developing my cybersecurity and ethical hacking skills through hands-on labs, security challenges and practical experimentation.
+
+### Hack The Box
+
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Buzzcola-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019e6d43-3afa-7380-875e-85fb5ae8d88b)
+
+**Profile:** `@Buzzcola`
+
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Buzzcola-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Buzzcola)
 
-**TryHackMe:** `Buzzcola` · **Rank:** `YOUR RANK`
+**TryHackMe Rank:** `0x8 · HACKER`
 
 ## 🔐 Areas of Interest
 
