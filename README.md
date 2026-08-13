@@ -8,21 +8,27 @@ I enjoy designing and building secure, scalable and highly automated cloud platf
 
 ---
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ## ☁️ What I Work With
 
-- 🤖 **Generative AI & local LLMs**
+- 🤖 **Generative AI & Local LLMs**
 - 🏗️ **AWS Cloud Architecture & Landing Zones**
 - 🔐 **Cloud Security & DevSecOps**
 - 🚀 **CI/CD & Platform Engineering**
 - 🧩 **Infrastructure as Code**
-- 🛡️ **AWS Security Hub, GuardDuty, Config & Network Firewall**
+- 🛡️ **AWS Security Services**
 - 🌐 **AWS Networking & Hybrid Connectivity**
 - 📦 **Containers & Cloud-Native Platforms**
-- 🤖 **Automation & AI**
-- 🖥️ **Embedded / ESP32 projects**
-- 🔎 **Monitoring, Observability & Incident Response**
+- ⚙️ **Automation**
+- 🖥️ **Embedded / ESP32 Projects**
+- 🔎 **Monitoring & Observability**
+- 🚨 **Incident Response**
 
----
+</td>
+<td width="50%" valign="top">
 
 ## 🛠️ Technology & Tools
 
@@ -49,7 +55,9 @@ I enjoy designing and building secure, scalable and highly automated cloud platf
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
----
+</td>
+</tr>
+</table>
 
 ## 🏆 Cybersecurity
 
