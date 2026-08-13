@@ -57,7 +57,7 @@ I'm actively developing my cybersecurity and ethical hacking skills through hand
 
 **Profile:** `@Buzzcola`
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Buzzcola-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Buzzcola)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Buzzcola-B91C1C?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Buzzcola)
 
 **TryHackMe Rank:** `0x8 · HACKER`
 
